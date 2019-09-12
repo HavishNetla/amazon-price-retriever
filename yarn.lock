@@ -2180,7 +2180,7 @@ eslint-config-airbnb@17.1.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-lemon@^0.4.10:
+eslint-config-lemon@0.4.10:
   version "0.4.10"
   resolved "https://registry.yarnpkg.com/eslint-config-lemon/-/eslint-config-lemon-0.4.10.tgz#8da1dbbb6da8186f860c4918753fb19f40778240"
   integrity sha512-Dzzl3E8FjLx/BDSPT7y6jc6C6FfsmHlHsNIqjlUhKgwr9CYTeU1CZKDQjb/OjqDgZt0KY7hX8glgXv9L86T+tQ==
