@@ -1,5 +1,7 @@
 # Amazon Price Retriever
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/havish10/amazon-price-retriever.svg)](https://greenkeeper.io/)
+
 ## Usage
 ```js
 const retriever = require('amazon-price-retriever')
