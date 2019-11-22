@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "eslint-config-lemon": "0.4.11"
+    "eslint-config-lemon": "0.4.29"
   },
   "dependencies": {
     "amazon-price-retriever": "^1.0.2",
