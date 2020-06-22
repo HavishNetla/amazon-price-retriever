@@ -1,4 +1,5 @@
 # Amazon Price Retriever
+THIS PROJECT IS NO LONGER MAINTAINED
 
 ## Usage
 ```js
